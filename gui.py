@@ -163,7 +163,7 @@ def stop_recording(status_label):
     status_label.config(text="Status: Saving & Transcribing...")
 
     # Wait a moment for the recording thread to fully stop
-    # Typically you might do something more robust than just a short sleep
+    # Try do something more robust than just a sleep
     sd.sleep(500)
 
     save_recording()
