@@ -1,0 +1,9 @@
+api_keys:
+  openai: "maremmacane"
+  elevenlabs: "asdsad"
+  huggingface: "placeholder43"
+  deepseek: "snganu" 
+settings:
+  model: "gpt-4"
+  language: "en"
+  voice: "Rachel"
