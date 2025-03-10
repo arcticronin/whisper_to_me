@@ -1,6 +1,5 @@
 from elevenlabs.client import ElevenLabs
 from elevenlabs import play
-import os
 import yaml
 from importlib import reload
 import player
